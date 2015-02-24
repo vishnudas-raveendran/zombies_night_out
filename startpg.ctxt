@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=startpg()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ startpg.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ begin()
+comment2.params=image\ XClick\ YClick
+comment2.target=void\ ChangeMouseImage(greenfoot.GreenfootImage,\ int,\ int)
+comment3.params=
+comment3.target=void\ countkill()
+comment4.params=
+comment4.target=int\ getkilled()
+numComments=5
